@@ -1,0 +1,23 @@
+{
+  "name": "ajs-node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazy-ferret/ajs-node1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lazy-ferret/ajs-node1/issues"
+  },
+  "homepage": "https://github.com/Lazy-ferret/ajs-node1#readme",
+  "dependencies": {
+    "@lazy-ferret/ajs1": "^1.0.0"
+  }
+}
